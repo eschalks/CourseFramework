@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="682EA90A-25D8-4B33-A382-6237337713AB" ModuleId="CourseFramework" />
+  <Module PersistentId="AwesomiumSharp, Version=1.6.2.0, Culture=neutral, PublicKeyToken=null" ModuleId="AwesomiumSharp" />
+</Modules>
